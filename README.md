@@ -6,3 +6,11 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/topics/awesome)
 
 ---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
+
+## Contributing
+
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for the process for submitting pull requests to us.
