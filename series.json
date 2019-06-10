@@ -1,0 +1,57 @@
+{
+	"1" : {
+		"Series-Title" : "Moving Past Tutorials: a course on problem solving for programmers ",
+		"link" : "https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4",
+		"author" : "Ali Spittel"
+	},
+	"2" : {
+		"Series-Title" : "Ultra List: One List to Rule Them All.",
+		"link" : "https://dev.to/teamxenox/-ultra-list-one-list-to-rule-them-all-march-19-4p4f",
+		"author" : "Sarthak Sharma"
+	},
+	"3" : {
+		"Series-Title" : "Dead Simple Python",
+		"link" : "https://dev.to/codemouse92/introducing-dead-simple-python-563o",
+		"author" : "Jason C. McDonald"
+	},
+	"4" : {
+		"Series-Title" : "alien articles",
+		"link" : "https://dev.to/teamxenox/5-alien-articles-of-the-week-worth-reading--2aom",
+		"author" : "Vaibhav"
+	},
+	"5" : {
+		"Series-Title" : "Underrated Articles",
+		"link" : "https://dev.to/teamxenox/underrated-articles-on-devto-last-week-o2l",
+		"author" : "Manpreet virk"
+	},
+	"6" : {
+		"Series-Title" : "Docker - from the beginning",
+		"link" : "https://dev.to/azure/docker---from-the-beginning-part-i-28c6",
+		"author" : "Chris Noring"
+	},
+	"7" : {
+		"Series-Title" : "BaseCS Video Series",
+		"link" : "https://dev.to/vaidehijoshi/linked-lists--basecs-video-series--2le8",
+		"author" : "Vaidehi Joshi"
+	},
+	"8" : {
+		"Series-Title" : "AWS Developer Associate Certification",
+		"link" : "https://dev.to/helenanders26/the-journey-to-aws-certification-1bnn",
+		"author" : "Helen Anderson"
+	},
+	"9" : {
+		"Series-Title" : "Power Up Your Command Line",
+		"link" : "https://dev.to/_darrenburns/10-tools-to-power-up-your-command-line-4id4",
+		"author" : "Darren Burns"
+	},
+	"10" : {
+		"Series-Title" : "Business Intelligence",
+		"link" : "https://dev.to/helenanders26/thoughts-on-dashboard-design-383d",
+		"author" : "Helen Anderson"
+	},
+	"11" : {
+		"Series-Title" : "Functional fundamentals",
+		"link" : "https://dev.to/drbearhands/a-series-on-functional-fundamentals-48mb",
+		"author" : "DrBearhands"
+	}
+}
