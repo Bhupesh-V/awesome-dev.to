@@ -33,8 +33,7 @@ def read_data():
 	with open('series.json') as json_file:  
 		data = json.load(json_file)
 	return data
-    #print(data)
-    #print(data["1"]["link"])
+
 
 def update_readme(data_dict):
 	with open('README.md', 'w') as file_:
@@ -42,8 +41,8 @@ def update_readme(data_dict):
 		file_.write('\n')
 		file_.write('| Series | Author |\n')
 		file_.write('|--------|--------|\n')
-		for key in sorted(data_dict):
-			file_.write('| [{0}]({1}) |{2}|\n'.format(data_dict[key]["Series-Title"],data_dict[key]["link"], data_dict[key]["author"]))
+		for key in sorted(data_dict["series"]):
+			file_.write('| [{0}]({1}) |{2}|\n'.format(key["Series-Title"],key["link"],key["author"]))
 		file_.write('\n' + FOOTER)
 
 
