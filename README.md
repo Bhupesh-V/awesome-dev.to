@@ -9,8 +9,12 @@
 
 | Series | Author |
 |--------|--------|
+| [AWS DevOps Pro Certification](https://dev.to/booyaa/aws-devops-pro-certification-blog-post-series-6hg) |Mark Sta Ana|
 | [AWS Developer Associate Certification](https://dev.to/helenanders26/the-journey-to-aws-certification-1bnn) |Helen Anderson|
+| [Azure April](https://dev.to/azure/create-an-email-subscription-with-azure-functions-part-1-1m0k) |Burke Holland|
 | [BaseCS Video Series](https://dev.to/vaidehijoshi/linked-lists--basecs-video-series--2le8) |Vaidehi Joshi|
+| [Best DEV.to Posts for Beginners](https://dev.to/desi/best-dev-to-posts-for-beginners-week-of-march-31-2019-4ngg) |Desi|
+| [Blog-A-Day in June](https://dev.to/samthor/rebuild-only-when-necessary-in-node-506e) |Sam Thorogood|
 | [Business Intelligence](https://dev.to/helenanders26/thoughts-on-dashboard-design-383d) |Helen Anderson|
 | [Dead Simple Python](https://dev.to/codemouse92/introducing-dead-simple-python-563o) |Jason C. McDonald|
 | [Docker - from the beginning](https://dev.to/azure/docker---from-the-beginning-part-i-28c6) |Chris Noring|

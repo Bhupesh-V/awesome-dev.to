@@ -54,6 +54,26 @@
 			"Series-Title" : "Functional fundamentals",
 			"link" : "https://dev.to/drbearhands/a-series-on-functional-fundamentals-48mb",
 			"author" : "DrBearhands"
+		},
+		{
+			"Series-Title" : "Best DEV.to Posts for Beginners",
+			"link" : "https://dev.to/desi/best-dev-to-posts-for-beginners-week-of-march-31-2019-4ngg",
+			"author" : "Desi"
+		},
+		{
+			"Series-Title" : "Azure April",
+			"link" : "https://dev.to/azure/create-an-email-subscription-with-azure-functions-part-1-1m0k",
+			"author" : "Burke Holland"
+		},
+		{
+			"Series-Title" : "AWS DevOps Pro Certification",
+			"link" : "https://dev.to/booyaa/aws-devops-pro-certification-blog-post-series-6hg",
+			"author" : "Mark Sta Ana"
+		},
+		{
+			"Series-Title" : "Blog-A-Day in June",
+			"link" : "https://dev.to/samthor/rebuild-only-when-necessary-in-node-506e",
+			"author" : "Sam Thorogood"
 		}
 	]
 }
