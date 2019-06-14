@@ -24,6 +24,7 @@
 | [Ultra List: One List to Rule Them All.](https://dev.to/teamxenox/-ultra-list-one-list-to-rule-them-all-march-19-4p4f) |Sarthak Sharma|
 | [Underrated Articles](https://dev.to/teamxenox/underrated-articles-on-devto-last-week-o2l) |Manpreet virk|
 | [alien articles](https://dev.to/teamxenox/5-alien-articles-of-the-week-worth-reading--2aom) |Vaibhav|
+| [pattern-design](https://dev.to/carlillo/design-patterns---strategy-pattern-in-javascript-2hg3) |Carlos Caballero|
 
 ---
 

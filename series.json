@@ -74,6 +74,11 @@
 			"Series-Title" : "Blog-A-Day in June",
 			"link" : "https://dev.to/samthor/rebuild-only-when-necessary-in-node-506e",
 			"author" : "Sam Thorogood"
+		},
+		{
+			"Series-Title" : "pattern-design",
+			"link" : "https://dev.to/carlillo/design-patterns---strategy-pattern-in-javascript-2hg3",
+			"author" : "Carlos Caballero"
 		}
 	]
 }
