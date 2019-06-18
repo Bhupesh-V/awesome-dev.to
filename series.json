@@ -79,6 +79,11 @@
 			"Series-Title" : "pattern-design",
 			"link" : "https://dev.to/carlillo/design-patterns---strategy-pattern-in-javascript-2hg3",
 			"author" : "Carlos Caballero"
+		},
+		{
+			"Series-Title" : "SQL 101",
+			"link" : "https://dev.to/helenanders26/five-sql-tips-2hb",
+			"author" : " Helen Anderson"
 		}
 	]
 }
