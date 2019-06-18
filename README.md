@@ -1,11 +1,23 @@
-# awesome-dev.to <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Community" height="30" width="30">
-> A collection of awesome blog series on [DEV.to](https://dev.to/)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Bhupesh-V/awesome-dev.to/blob/master/LICENSEs)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/topics/awesome)
-
+<h1 align="center">awesome-dev.to</h1>
 ---
+<p align="center">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Community" height="30" width="30">
+  <a href="https://github.com/topics/awesome">
+    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" target="_blank" />
+  </a>
+  <a href="http://makeapullrequest.com">
+    <img alt="License: MIT" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" target="_blank" />
+  </a>
+  <a href="https://github.com/Bhupesh-V/awesome-dev.to/blob/master/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/apm/l/atomic-design-ui.svg?" target="_blank" />
+  </a>
+  <a href="https://twitter.com/bhupeshimself">
+    <img alt="Twitter: bhupeshimself" src="https://img.shields.io/twitter/follow/bhupeshimself.svg?style=social" target="_blank" />
+  </a>
+</p>
+
+> A collection of awesome blog series on [DEV.to](https://dev.to/).
 
 | Series | Author |
 |--------|--------|
@@ -29,11 +41,18 @@
 
 ---
 
-## License
+## :memo: License
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
 
-## Contributing
+## Author
+
+:bust_in_silhouette: **Bhupesh Varshney**
+
+- Twitter: [@bhupeshimself](https://twitter.com/bhupeshimself)
+- Github: [@Bhupesh-V](https://github.com/Bhupesh-V)
+
+## :wave: Contributing
 
 Please read the [CONTRIBUTING](CONTRIBUTING.md) for the process for submitting pull requests to us.
 
