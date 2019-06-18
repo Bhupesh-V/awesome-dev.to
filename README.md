@@ -1,8 +1,10 @@
 
-<h1 align="center">awesome-dev.to</h1>
+<h1 align="center">awesome-dev.to <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Community" height="30" width="30"></h1>
+
 ---
+
 <p align="center">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Community" height="30" width="30">
+  
   <a href="https://github.com/topics/awesome">
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" target="_blank" />
   </a>
