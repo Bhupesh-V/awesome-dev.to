@@ -36,6 +36,7 @@
 | [Moving Past Tutorials: a course on problem solving for programmers ](https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4) |Ali Spittel|
 | [Power Up Your Command Line](https://dev.to/_darrenburns/10-tools-to-power-up-your-command-line-4id4) |Darren Burns|
 | [SQL 101](https://dev.to/helenanders26/five-sql-tips-2hb) | Helen Anderson|
+| [Top CSS Interview Questions](https://dev.to/theodesp/top-css-interview-questions-with-detailed-answers-part-i-5bjh) |Theofanis Despoudis|
 | [Ultra List: One List to Rule Them All.](https://dev.to/teamxenox/-ultra-list-one-list-to-rule-them-all-march-19-4p4f) |Sarthak Sharma|
 | [Underrated Articles](https://dev.to/teamxenox/underrated-articles-on-devto-last-week-o2l) |Manpreet virk|
 | [alien articles](https://dev.to/teamxenox/5-alien-articles-of-the-week-worth-reading--2aom) |Vaibhav|
