@@ -83,12 +83,17 @@
 		{
 			"Series-Title" : "SQL 101",
 			"link" : "https://dev.to/helenanders26/five-sql-tips-2hb",
-			"author" : " Helen Anderson"
+			"author" : "Helen Anderson"
 		},
 		{
 			"Series-Title" : "Top CSS Interview Questions",
 			"link" : "https://dev.to/theodesp/top-css-interview-questions-with-detailed-answers-part-i-5bjh",
 			"author" : "Theofanis Despoudis"
+		},
+		{
+			"Series-Title" : "SQL 201",
+			"link" : "https://dev.to/helenanders26/why-you-should-use-sql-ctes-25lk",
+			"author" : "Helen Anderson"
 		}
 	]
 }
