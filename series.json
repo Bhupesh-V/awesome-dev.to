@@ -94,6 +94,11 @@
 			"Series-Title" : "SQL 201",
 			"link" : "https://dev.to/helenanders26/why-you-should-use-sql-ctes-25lk",
 			"author" : "Helen Anderson"
+		},
+		{
+			"Series-Title" : "JavaScript Revisited",
+			"link" : "https://dev.to/attacomsian/how-to-show-desktop-notifications-using-javascript-5aco",
+			"author" : "Atta"
 		}
 	]
 }
