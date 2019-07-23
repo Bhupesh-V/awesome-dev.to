@@ -99,6 +99,11 @@
 			"Series-Title" : "JavaScript Revisited",
 			"link" : "https://dev.to/attacomsian/how-to-show-desktop-notifications-using-javascript-5aco",
 			"author" : "Atta"
+		},
+		{
+			"Series-Title" : "SQL 301",
+			"link" : "https://dev.to/helenanders26/sql-301-why-you-need-sql-window-functions-part-1-6e1",
+			"author" : "Helen Anderson"
 		}
 	]
 }
