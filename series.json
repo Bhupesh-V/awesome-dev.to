@@ -104,6 +104,11 @@
 			"Series-Title" : "SQL 301",
 			"link" : "https://dev.to/helenanders26/sql-301-why-you-need-sql-window-functions-part-1-6e1",
 			"author" : "Helen Anderson"
+		},
+		{
+			"Series-Title" : "Mindset tips for anyone learning to code",
+			"link" : "https://dev.to/skill_pathway/why-learning-to-code-makes-you-feel-incompetentand-ways-to-combat-it-1ch",
+			"author" : "Skill Pathway"
 		}
 	]
 }
