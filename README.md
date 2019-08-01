@@ -23,6 +23,7 @@
 
 | Series | Author |
 |--------|--------|
+| [5 Tips and Tricks for Firefox DevTools](https://dev.to/lakatos88/5-tips-and-tricks-for-firefox-devtools-page-inspector-2p95) |Alex Lakatos|
 | [AWS DevOps Pro Certification](https://dev.to/booyaa/aws-devops-pro-certification-blog-post-series-6hg) |Mark Sta Ana|
 | [AWS Developer Associate Certification](https://dev.to/helenanders26/the-journey-to-aws-certification-1bnn) |Helen Anderson|
 | [Azure April](https://dev.to/azure/create-an-email-subscription-with-azure-functions-part-1-1m0k) |Burke Holland|

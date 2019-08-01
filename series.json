@@ -109,6 +109,11 @@
 			"Series-Title" : "Mindset tips for anyone learning to code",
 			"link" : "https://dev.to/skill_pathway/why-learning-to-code-makes-you-feel-incompetentand-ways-to-combat-it-1ch",
 			"author" : "Skill Pathway"
+		},
+		{
+			"Series-Title" : "5 Tips and Tricks for Firefox DevTools",
+			"link" : "https://dev.to/lakatos88/5-tips-and-tricks-for-firefox-devtools-page-inspector-2p95",
+			"author" : "Alex Lakatos"
 		}
 	]
 }
