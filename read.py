@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 ''' Simple script to auto-generate the README.md file for the project.
 '''
@@ -43,6 +43,7 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) fi
 
 - Twitter: [@bhupeshimself](https://twitter.com/bhupeshimself)
 - Github: [@Bhupesh-V](https://github.com/Bhupesh-V)
+- DEV: [@bhupesh](https://dev.to/bhupesh)
 
 ## :wave: Contributing
 

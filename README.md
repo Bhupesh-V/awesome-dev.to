@@ -34,6 +34,7 @@
 | [Dead Simple Python](https://dev.to/codemouse92/introducing-dead-simple-python-563o) |Jason C. McDonald|
 | [Docker - from the beginning](https://dev.to/azure/docker---from-the-beginning-part-i-28c6) |Chris Noring|
 | [Functional fundamentals](https://dev.to/drbearhands/a-series-on-functional-fundamentals-48mb) |DrBearhands|
+| [How To Become A Developer](https://dev.to/codemouse92/how-to-become-a-developer-part-1-coding-skills-5fen) |Jason C. McDonald|
 | [JavaScript Revisited](https://dev.to/attacomsian/how-to-show-desktop-notifications-using-javascript-5aco) |Atta|
 | [Mindset tips for anyone learning to code](https://dev.to/skill_pathway/why-learning-to-code-makes-you-feel-incompetentand-ways-to-combat-it-1ch) |Skill Pathway|
 | [Moving Past Tutorials: a course on problem solving for programmers ](https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4) |Ali Spittel|
@@ -59,6 +60,7 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) fi
 
 - Twitter: [@bhupeshimself](https://twitter.com/bhupeshimself)
 - Github: [@Bhupesh-V](https://github.com/Bhupesh-V)
+- DEV: [@bhupesh](https://dev.to/bhupesh)
 
 ## :wave: Contributing
 
