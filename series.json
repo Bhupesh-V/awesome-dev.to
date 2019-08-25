@@ -119,6 +119,11 @@
 			"Series-Title" : "How To Become A Developer",
 			"link" : "https://dev.to/codemouse92/how-to-become-a-developer-part-1-coding-skills-5fen",
 			"author" : "Jason C. McDonald"
+		},
+		{
+			"Series-Title" : "Become a Fullstack JavaScript Developer",
+			"link" : "https://dev.to/hoangbkit/become-a-fullstack-javascript-developer-part-1-the-motivation-1h4c",
+			"author" : "Hoang Nguyen"
 		}
 	]
 }

@@ -28,6 +28,7 @@
 | [AWS Developer Associate Certification](https://dev.to/helenanders26/the-journey-to-aws-certification-1bnn) |Helen Anderson|
 | [Azure April](https://dev.to/azure/create-an-email-subscription-with-azure-functions-part-1-1m0k) |Burke Holland|
 | [BaseCS Video Series](https://dev.to/vaidehijoshi/linked-lists--basecs-video-series--2le8) |Vaidehi Joshi|
+| [Become a Fullstack JavaScript Developer](https://dev.to/hoangbkit/become-a-fullstack-javascript-developer-part-1-the-motivation-1h4c) |Hoang Nguyen|
 | [Best DEV.to Posts for Beginners](https://dev.to/desi/best-dev-to-posts-for-beginners-week-of-march-31-2019-4ngg) |Desi|
 | [Blog-A-Day in June](https://dev.to/samthor/rebuild-only-when-necessary-in-node-506e) |Sam Thorogood|
 | [Business Intelligence](https://dev.to/helenanders26/thoughts-on-dashboard-design-383d) |Helen Anderson|
