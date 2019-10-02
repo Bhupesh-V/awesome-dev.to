@@ -124,6 +124,11 @@
 			"Series-Title" : "Become a Fullstack JavaScript Developer",
 			"link" : "https://dev.to/hoangbkit/become-a-fullstack-javascript-developer-part-1-the-motivation-1h4c",
 			"author" : "Hoang Nguyen"
+		},
+		{
+			"Series-Title" : "Introduction to Data Science and Analytics",
+			"link" : "https://dev.to/codeitbro/introduction-to-data-science-and-analytics-4h3c",
+			"author" : "Himanshu Tyagi"
 		}
 	]
 }
