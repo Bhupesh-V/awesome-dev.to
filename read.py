@@ -63,7 +63,7 @@ def update_readme(data_dict):
 		file_.write('\n')
 		file_.write('| Series | Author |\n')
 		file_.write('|--------|--------|\n')
-		for key in sorted(data_dict["series"]):
+		for key in data_dict["series"]:
 			file_.write('| [{0}]({1}) |{2}|\n'.format(key["Series-Title"],key["link"],key["author"]))
 		file_.write('\n' + FOOTER)
 
